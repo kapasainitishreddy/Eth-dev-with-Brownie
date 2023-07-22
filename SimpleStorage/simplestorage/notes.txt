@@ -1,0 +1,6 @@
+web3.py
+brownie is made of web3.py
+//py-solc-x solidity compiler for python
+
+#intro to web3.py
+pip install web3
